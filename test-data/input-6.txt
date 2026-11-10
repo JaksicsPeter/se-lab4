@@ -1,0 +1,4 @@
+#I dunno but last one
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
